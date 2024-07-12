@@ -58,11 +58,11 @@
 | ST#40 | Conventions on Air Pollution Control (CO2)	 | NEDURUMALLI VEDVARSHITH |
 | ST#41 | Land Pollution: Sources and Remediation (CO3) | MUKUND KUMARAPPAN S |
 | ST#42 | Noise Pollution: Regulatory Framework (CO2) | PARTHIV KUMAR NIKKU |
-| ST#43 | Deforestation and Its Impact on Biodiversity (CO1) | PILLIMETLA VAMSI |
+| ST#43 | Deforestation and Its Impact on Biodiversity (CO1) | N.MEERA |
 | ST#44 | Water Quality Standards and Regulations (CO2) | PALAKURTY ROOPAK NAGA VENKATA | 
 | ST#45 | Sustainable Practices in Industrial Waste Management (CO3)	| PAVAN SHANMUKHA MADHAV GUNDA |
 | ST#46 | Food Security and Global Policies (CO2) | R M NAREN ADITHYA |
-| ST#47 | Conservation Strategies for Endangered Species (CO1) | N.MEERA |
+| ST#47 | Conservation Strategies for Endangered Species (CO1) | PILLIMETLA VAMSI |
 | ST#48 | The Role of Wetlands in Water Purification (CO1) | R SRUTHI |
 | ST#49 | Municipal Solid Waste Management: Best Practices (CO3) | RATHNESH R |
 | ST#50 | E-Waste: Challenges and Recycling Solutions (CO3)	 | RAMRAJ S | 
